@@ -2,6 +2,8 @@
 ## 📌 Project Overview
 This project is a comprehensive analysis of retail transaction data for a supermarket chain. It focuses on identifying high-value customer segments and evaluating the success of store trials (A/B testing) through statistical validation. The goal is to provide the CMO with actionable recommendations to drive sales growth and optimize product placement.
 
+<img width="1217" height="682" alt="image" src="https://github.com/user-attachments/assets/4b7de8ef-8126-415c-a746-89150823a55c" />
+
 
 ## 🛠️ Project Phases
 ### 1. Data Wrangling & Customer Insights
